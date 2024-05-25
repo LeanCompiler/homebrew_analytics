@@ -1,0 +1,52 @@
+[
+  {
+    "name": "aardvark_shell_utils",
+    "desc": "Utilities to aid shell scripts or command-line users",
+    "30d_installs": 0
+  },
+  {
+    "name": "a52dec",
+    "desc": "Library for decoding ATSC A/52 streams (AKA 'AC-3')",
+    "30d_installs": 34
+  },
+  {
+    "name": "aarch64-elf-gdb",
+    "desc": "GNU debugger for aarch64-elf cross development",
+    "30d_installs": 81
+  },
+  {
+    "name": "abcde",
+    "desc": "Better CD Encoder",
+    "30d_installs": 41
+  },
+  {
+    "name": "aamath",
+    "desc": "Renders mathematical expressions as ASCII art",
+    "30d_installs": 9
+  },
+  {
+    "name": "aarch64-elf-binutils",
+    "desc": "GNU Binutils for aarch64-elf cross development",
+    "30d_installs": 658
+  },
+  {
+    "name": "aarch64-elf-gcc",
+    "desc": "GNU compiler collection for aarch64-elf",
+    "30d_installs": 263
+  },
+  {
+    "name": "aalib",
+    "desc": "Portable ASCII art graphics library",
+    "30d_installs": 46
+  },
+  {
+    "name": "a2ps",
+    "desc": "Any-to-PostScript filter",
+    "30d_installs": 116
+  },
+  {
+    "name": "abcl",
+    "desc": "Armed Bear Common Lisp: a full implementation of Common Lisp",
+    "30d_installs": 72
+  }
+]
